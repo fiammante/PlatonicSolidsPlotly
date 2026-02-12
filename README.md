@@ -23,6 +23,7 @@ only the geometry oscillates, making the convex/concave transition visually clea
 
 > **Controls:** ▶ Play · ⏸ Pause · drag the frame slider below each figure
 ---
+![Platonic solids](images/platonic_solids.png)
 ## Appendix · Cosine oscillation math
 
 The oscillation is driven by a **pure cosine sweep** of the deformation amplitude:
